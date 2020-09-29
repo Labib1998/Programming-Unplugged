@@ -1,0 +1,12 @@
+Draw an ovel that is rotated 90 degrees at the centre of the page.
+
+Draw a single dot in the centre of the ovel.
+
+About a centemeter away from the dot on the left and right sides draw a small line. 
+The small lines must be drawn from left to right (or right to left, it's the line direction that matters) im going to cheat and say these represent eyes
+.
+Below the dot, about a centemeter away from the dot, draw a line that expands below one eye to the other. this represents the mouth.
+
+draw a curve below the mouth line that starts from the left end of the mouth line to the right end. 
+
+There's more but it'll take too long to explain so I'll spare you the details. 
